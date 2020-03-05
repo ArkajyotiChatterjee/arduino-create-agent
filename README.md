@@ -1,3 +1,6 @@
+[![Gitter](https://badges.gitter.im/arduino-create-agent/community.svg)](https://gitter.im/arduino-create-agent/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+
 arduino-create-agent
 ====================
 
